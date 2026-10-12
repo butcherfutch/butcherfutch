@@ -4,7 +4,7 @@
     <p>i really love <strong>video games!!!</strong> rn im mainly obsessed with <strong>hotline miami, outlast,</strong> and <strong>fallout!</strong></p>
     <p><img src="https://i.imgur.com/oz4nTvG.gif"> <img src="https://i.imgur.com/LlDPRcv.png"> <img src="https://i.imgur.com/pHdCllQ.png"> <--- favorites :-3 </p>
     <p> <em>sign my <strong>atabook</strong> or strawpage!!! please!!! it makes me very VERY happy!!!</em> </p>
-    <p><img src="https://i.imgur.com/ot1je9i.gif"><img src="https://i.imgur.com/NrUVn5R.gif"><img src="https://i.imgur.com/oexmqYN.gif"></p>
+    <p><img src="https://i.imgur.com/NrUVn5R.gif"><img src="https://i.imgur.com/0Irivsv.gif"><img src="https://i.imgur.com/oexmqYN.gif"></p>
     <p>im usually in <em>these</em> skins, around <strong>docks, the valve game area, & spawn!</strong></p>
   </body>
 </html>
